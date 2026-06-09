@@ -1,23 +1,32 @@
-# Hi 👋, I'm Mohesh V K
+# Hi 👋 I'm Mohesh V K
 
-### AI/ML Engineer | Full Stack Developer | Data Science Enthusiast
+### AI & ML Engineer | Computer Vision Developer | Full Stack Developer
 
-Passionate about building intelligent systems that solve real-world problems using Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development.
+🎓 B.Tech Electronics & Computer Science Engineering (AI & ML)
+🏫 Christ University, Bengaluru
+📍 Hosur, Tamil Nadu, India
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Computer Science & Engineering Student
-* 🤖 Focused on AI/ML, Data Science, and Full Stack Development
-* 📊 Interested in Machine Learning, Computer Vision, NLP, and Predictive Analytics
-* 🌱 Currently learning Advanced AI Systems and MLOps
-* 💡 Love building projects that combine Software Engineering with Artificial Intelligence
-* 📈 Actively seeking Internship and Research Opportunities
+I am passionate about Artificial Intelligence, Machine Learning, Computer Vision, Industrial Automation, and Full Stack Development.
+
+I enjoy building intelligent systems that solve real-world problems using AI, IoT, automation, and data-driven technologies.
+
+My work focuses on:
+
+* Artificial Intelligence
+* Machine Learning
+* Computer Vision
+* Industrial Automation
+* Blockchain Applications
+* Full Stack Development
+* Data Analytics
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Tech Stack
 
 ### Programming Languages
 
@@ -25,104 +34,132 @@ Passionate about building intelligent systems that solve real-world problems usi
 * Java
 * JavaScript
 * SQL
-* HTML5
-* CSS3
+* C++
 
-### AI / Machine Learning
+### AI & Machine Learning
 
 * Scikit-Learn
 * TensorFlow
+* OpenCV
+* YOLOv8
 * Pandas
 * NumPy
-* Matplotlib
-* OpenCV
-* XGBoost
 
 ### Web Development
 
-* Flask
-* Angular
+* HTML
+* CSS
+* JavaScript
 * REST APIs
-* Bootstrap
+* Flask
 
 ### Databases
 
 * MySQL
 * MongoDB
 
-### Tools & Platforms
+### Tools
 
 * Git
 * GitHub
+* Docker
 * VS Code
 * Power BI
+
+---
+
+## 💼 Internship Experience
+
+### Titan Company Limited
+
+* IT Infrastructure
+* Database Security
+* System Administration
+
+### Titan Engineering & Automation Ltd
+
+* Industrial Automation
+* PLC Systems
+* IoT Monitoring
+* Full Stack Development
+
+---
+
+## 🚀 Featured Projects
+
+### AI Weight Verification System
+
+Industrial quality-control system that compares real-time weight from weighing machines with barcode-based product data.
+
+**Tech Stack:** Python, Flask, Serial Communication, HTML, CSS
+
+---
+
+### Smart Traffic Signal System
+
+AI-powered traffic management using Computer Vision and Machine Learning.
+
+**Tech Stack:** Python, YOLOv8, OpenCV
+
+---
+
+### ADAS Computer Vision System
+
+Advanced Driver Assistance System featuring:
+
+* Forward Collision Warning
+* Blind Spot Detection
+* Pothole Detection
+
+**Tech Stack:** YOLOv8, OpenCV, Python
+
+---
+
+### Blockchain Supply Chain Tracking
+
+Blockchain-enabled product traceability and supply chain monitoring system.
+
+**Tech Stack:** JavaScript, Blockchain
+
+---
+
+### Healthcare Appointment Booking System
+
+Full-stack healthcare management platform with appointment scheduling and patient management.
+
+**Tech Stack:** Java, Spring Boot, MySQL
+
+---
+
+## 📜 Certifications
+
+* NPTEL Data Science for Engineers
+* Cisco Cyber Security
+* MATLAB Programming
+* Data Analytics Job Simulation
+* Blockchain & Cryptology Honors
+
+---
+
+## 🌱 Currently Learning
+
+* Large Language Models (LLMs)
+* RAG Applications
+* LangChain
+* AWS Cloud
 * Docker
-* Linux
+* System Design
 
 ---
 
-## 💼 Featured Projects
+## 📫 Connect With Me
 
-### 📝 AI Answer Sheet Analyzer
+📧 Email: [mohesh5vk@gmail.com](mailto:mohesh5vk@gmail.com)
 
-AI-powered platform that analyzes handwritten answer sheets, identifies mistakes, provides improvement suggestions, and helps students prepare effectively.
+🔗 LinkedIn: Add your LinkedIn URL
 
-**Tech Stack:** Python, Machine Learning, NLP, Flask
-
----
-
-### 🌍 Air Quality Monitoring & Prediction System
-
-IoT + Machine Learning solution for monitoring environmental conditions and predicting air quality trends.
-
-**Tech Stack:** Python, XGBoost, Power BI, IoT Sensors
+💻 GitHub: github.com/mohesh05
 
 ---
 
-### ⚖️ Weight Verification System
-
-Industrial automation system that compares real-time weight measurements with barcode-based product records and generates verification labels automatically.
-
-**Tech Stack:** Python, Serial Communication, ZPL Printing
-
----
-
-### 🏥 Healthcare Appointment Management System
-
-Full-stack healthcare platform for appointment scheduling, patient management, and doctor administration.
-
-**Tech Stack:** Angular, Java Spring Boot, MySQL
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohesh05\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohesh05\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mohesh05\&theme=tokyonight)
-
----
-
-## 🎯 2026 Goals
-
-* Build production-ready AI applications
-* Contribute to Open Source Projects
-* Master MLOps and Cloud Deployment
-* Publish impactful AI projects
-* Secure a Software/AI Engineering Internship
-
----
-
-## 🤝 Connect With Me
-
-* LinkedIn: YOUR_LINKEDIN_URL
-* Email: YOUR_EMAIL
-* GitHub: https://github.com/mohesh05
-
----
-
-### 💡 Quote
-
-"Building intelligent solutions that create real-world impact."
+### "Building intelligent systems that create real-world impact."
